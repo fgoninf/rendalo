@@ -2,8 +2,9 @@
 
 La Aplicación permite ver e insertar Nombres de pilotos y la categoria en la que corren.
 
-<img src="https://github.com/fgoninf/rendalo/blob/master/preview.png)"
+<img src="https://raw.githubusercontent.com/fgoninf/rendalo/master/preview.png"
      style="float: left; margin-right: 10px;" />
+     
 
 
 El proyecto esta compuesto por 2 carpetas:
