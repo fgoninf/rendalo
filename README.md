@@ -4,7 +4,7 @@ La Aplicación permite ver e insertar Nombres de pilotos y la categoria en la qu
 
 <img src="https://raw.githubusercontent.com/fgoninf/rendalo/master/preview.png"
      style="float: left; margin-right: 10px;" />
-     
+
 
 
 El proyecto esta compuesto por 2 carpetas:
@@ -50,6 +50,20 @@ y luego:
 ```
 
 npm run start:prod
+
+```
+
+### Nodejs - tests
+
+```
+
+npm run test
+
+```
+
+```
+
+npm run test:cov
 
 ```
 
