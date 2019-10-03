@@ -1,5 +1,11 @@
 # Descripcion
 
+La Aplicación permite ver e insertar Nombres de pilotos y la categoria en la que corren.
+
+<img src="https://github.com/fgoninf/rendalo/blob/master/preview.png)"
+     style="float: left; margin-right: 10px;" />
+
+
 El proyecto esta compuesto por 2 carpetas:
 - nest-api: RESTful API project 
 - react-ui: UI in react
