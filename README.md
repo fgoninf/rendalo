@@ -24,6 +24,8 @@ https://db4free.net/
 
 ## Nest-API
 
+Default PORT: 8080
+
 Ésta puede ser ejecutada de 2 formas:
 
 ### Nodejs
